@@ -1,0 +1,7 @@
+node_modules/
+.env
+
+# Remove YARN
+
+yarn.lock*
+yarn-error.log*
